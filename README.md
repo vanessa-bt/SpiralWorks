@@ -1,6 +1,6 @@
 # SpiralWorks Exam
 ### This solution is created using Microsoft Visual Studio 2017 and MS SQL Server 2017
-### Repository is in Branch: Vanessa
+### Project Solution is in Branch: Vanessa
 #### Appsettings.json 
 - Change the Data Source to your SQL Server. Database name is the Initial Catalog which is the SpiralWorks.
 
