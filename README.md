@@ -12,7 +12,4 @@
 - Table Name: Account
 - Column Name: ID int (primary key), AccountID int, Username nvarchar(100), InitialBalance decimal(18,2)
 
-#### API Name
-- 
-
 #### SpiralWorks_ExamDB file is the generate script of my Database.
