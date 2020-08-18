@@ -12,4 +12,4 @@
 - Table Name: Account
 - Column Name: ID int (primary key), AccountID int, Username nvarchar(100), InitialBalance decimal(18,2) 
 
-## Use the MS SQL Database backup in repository
+## Use the SpiralWorks_ExamDB file in repository
